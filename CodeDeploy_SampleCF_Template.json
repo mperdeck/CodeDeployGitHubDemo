@@ -74,7 +74,7 @@
       },
       "ap-southeast-2" : {
         "Linux" : "ami-6bf99c51",
-        "Windows" : "ami-a9077a93"
+        "Windows" : "ami-a1f7d5c2"
       }
     },
 
